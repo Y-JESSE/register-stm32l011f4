@@ -1,0 +1,13 @@
+..\obj\main.o: main.c
+..\obj\main.o: ..\SYSTEM\sys\sys.h
+..\obj\main.o: ..\SYSTEM\sys\stm32l0xx.h
+..\obj\main.o: ..\SYSTEM\sys\stm32l011xx.h
+..\obj\main.o: ..\SYSTEM\sys\core_cm0plus.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\main.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\main.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\main.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\main.o: ..\SYSTEM\sys\system_stm32l0xx.h
+..\obj\main.o: ..\SYSTEM\usart\usart.h
+..\obj\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\main.o: ..\SYSTEM\delay\delay.h

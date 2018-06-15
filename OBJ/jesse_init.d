@@ -1,0 +1,11 @@
+..\obj\jesse_init.o: ..\SYSTEM\init\jesse_init.c
+..\obj\jesse_init.o: ..\SYSTEM\init\jesse_init.h
+..\obj\jesse_init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\stm32l0xx.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\stm32l011xx.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\core_cm0plus.h
+..\obj\jesse_init.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\core_cmInstr.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\cmsis_armcc.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\core_cmFunc.h
+..\obj\jesse_init.o: ..\SYSTEM\sys\system_stm32l0xx.h

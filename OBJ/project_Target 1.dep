@@ -1,0 +1,27 @@
+Dependencies for Project 'project', Target 'Target 1': (DO NOT MODIFY !)
+F (.\startup_stm32l011xx.s)(0x59A57823)(--cpu Cortex-M0+ -g --apcs=interwork -I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include--pd "__UVISION_VERSION SETA 525" --pd "STM32L011xx SETA 1"--list ..\obj\startup_stm32l011xx.lst --xref -o ..\obj\startup_stm32l011xx.o --depend ..\obj\startup_stm32l011xx.d)
+F (.\main.c)(0x5B20DD55)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I ..\SYSTEM\init -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32L011xx -DSTM32L011xx-o ..\obj\main.o --omf_browse ..\obj\main.crf --depend ..\obj\main.d)
+I (..\SYSTEM\sys\sys.h)(0x5B20DAF7)
+I (..\SYSTEM\sys\stm32l0xx.h)(0x5B20DA97)
+I (..\SYSTEM\sys\stm32l011xx.h)(0x59A57823)
+I (..\SYSTEM\sys\core_cm0plus.h)(0x59A57823)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\SYSTEM\sys\core_cmInstr.h)(0x59A57823)
+I (..\SYSTEM\sys\cmsis_armcc.h)(0x59A57823)
+I (..\SYSTEM\sys\core_cmFunc.h)(0x59A57823)
+I (..\SYSTEM\sys\system_stm32l0xx.h)(0x59A57823)
+I (..\SYSTEM\usart\usart.h)(0x5B20DB09)
+I (C:\Keil_v5\ARM\ARMCC\include\stdio.h)(0x599ECD2C)
+I (..\SYSTEM\delay\delay.h)(0x5B20DB16)
+F (..\SYSTEM\init\jesse_init.c)(0x5B212EED)(-c --cpu Cortex-M0+ -g -O0 --apcs=interwork --split_sections -I ..\SYSTEM\init -I ..\SYSTEM\delay -I ..\SYSTEM\sys -I ..\SYSTEM\usart-I.\RTE\_Target_1-IC:\Keil_v5\ARM\PACK\Keil\STM32L0xx_DFP\2.0.0\Drivers\CMSIS\Device\ST\STM32L0xx\Include-IC:\Keil_v5\ARM\CMSIS\Include-D__UVISION_VERSION="525" -DSTM32L011xx -DSTM32L011xx-o ..\obj\jesse_init.o --omf_browse ..\obj\jesse_init.crf --depend ..\obj\jesse_init.d)
+I (..\SYSTEM\init\jesse_init.h)(0x5B20DD87)
+I (C:\Keil_v5\ARM\ARMCC\include\stdarg.h)(0x599ECD2A)
+I (..\SYSTEM\sys\stm32l0xx.h)(0x5B20DA97)
+I (..\SYSTEM\sys\stm32l011xx.h)(0x59A57823)
+I (..\SYSTEM\sys\core_cm0plus.h)(0x59A57823)
+I (C:\Keil_v5\ARM\ARMCC\include\stdint.h)(0x599ECD2E)
+I (..\SYSTEM\sys\core_cmInstr.h)(0x59A57823)
+I (..\SYSTEM\sys\cmsis_armcc.h)(0x59A57823)
+I (..\SYSTEM\sys\core_cmFunc.h)(0x59A57823)
+I (..\SYSTEM\sys\system_stm32l0xx.h)(0x59A57823)
+F (..\readme.txt)(0x55BF195F)()
